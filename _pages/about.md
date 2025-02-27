@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 Current
 ======
-* M.S. TG Group, [Research Center for Social Computing and Interactive Robotic(SCIR)](http://ir.hit.edu.cn/), Harbin Institute of Technology
+* M.S. TG Group, [Research Center for Social Computing and Interactive Robotics(SCIR)](http://ir.hit.edu.cn/), Harbin Institute of Technology
 
 Research Interests
 ======
@@ -27,10 +27,12 @@ Education
 
 Papers
 ======
+* **CVPR 2025 main conference(CCF-A)** [RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness](https://arxiv.org/abs/2405.17220)
+  * Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, Ganqu Cui, Yunkai Dang, Taiwen He, Xiaocheng Feng, Jun Song, Bo Zheng, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun
+
 * **ACL 2024 main conference(CCF-A)** [Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://arxiv.org/abs/2407.00569)
   * Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
-* **CVPR 2025 main conference(CCF-A)** [RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness](https://arxiv.org/abs/2405.17220)
-  * Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, Ganqu Cui, Yunkai Dang, Taiwen He, Xiaocheng Feng, Jun Song, Bo Zheng, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun 
+ 
   
 Internship
 ======
