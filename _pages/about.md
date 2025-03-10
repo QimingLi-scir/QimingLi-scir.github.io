@@ -57,8 +57,14 @@ Internship
   * Department: Vision Algorithm R&D
   * Duties: Machine Vision, Deep Learning
   * Supervisor: [Prof.Xiaokun Leng](https://homepage.hit.edu.cn/lengxiaokun)
-  
-Projects & Competitions
+
+
+Teaching
+======
+* Teaching Assistant @ Harbin Institute of Technology
+  * 22CS31052 Knowledge Representation and Reasoning, Spring 2025
+    
+Awards
 ======
 * 2023全国大学生机器人竞赛[Robomaster](https://www.robomaster.com/zh-CN)
   * [RoboMaster 2023机甲大师超级对抗赛全国赛————全国一等奖（八强）](https://www.robomaster.com/zh-CN/resource/pages/announcement/1617)
