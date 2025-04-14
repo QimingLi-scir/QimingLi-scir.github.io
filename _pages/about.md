@@ -18,12 +18,6 @@ Research Interests
 * Multimodal Large Language Model
 * Hallucination
 
-Education
-====== 
-- <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:35px;height:30px;"> B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
-- <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:35px;height:30px;"> M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2027(expected)
-  - Supervisor: [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)
-
 
 Papers
 ======
@@ -69,6 +63,12 @@ Teaching
 ======
 * Teaching Assistant @ Harbin Institute of Technology
   * 22CS31052 Knowledge Representation and Reasoning, Spring 2025
+ 
+Education
+====== 
+- <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:35px;height:30px;"> B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
+- <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:35px;height:30px;"> M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2027(expected)
+  - Supervisor: [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)
     
 Awards
 ======
