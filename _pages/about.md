@@ -17,6 +17,7 @@ Research Interests
 ======
 * Natural Language Processing
 * Multimodal Large Language Model
+* Hallucination
 
 Education
 ====== 
@@ -27,10 +28,16 @@ Education
 
 Papers
 ======
-* **CVPR 2025 main conference(CCF-A)** [RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness](https://arxiv.org/abs/2405.17220)
+* **ACL 2025 Submission (CCF-A)** CAI: Caption-Sensitive Attention Intervention for Mitigating Object Hallucination in Large Vision-Language Models
+  * **Qiming Li***, Zekai Ye*, Xiaocheng Feng, Libo Qin, Weihong Zhong, Ruihan Chen, Lei Huang, Baohang Li, Kui Jiang, Yaowei Wang, Ting Liu, Bing Qin
+    
+* **ACL 2025 Submission (CCF-A)** CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention
+  * Zekai Ye*, **Qiming Li***, Xiaocheng Feng, Libo Qin, Yichong Huang, Baohang Li, Kui Jiang, Yang Xiang, Zhirui Zhang, Yunfei Lu, Duyu Tang, Dandan Tu, Bing Qin
+
+* **CVPR 2025 Highlight (CCF-A)** [RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness](https://arxiv.org/abs/2405.17220)
   * Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, Ganqu Cui, Yunkai Dang, Taiwen He, Xiaocheng Feng, Jun Song, Bo Zheng, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun
 
-* **ACL 2024 main conference(CCF-A)** [Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://arxiv.org/abs/2407.00569)
+* **ACL 2024 (CCF-A)** [Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://arxiv.org/abs/2407.00569)
   * Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
  
   
