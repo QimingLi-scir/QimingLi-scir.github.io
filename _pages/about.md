@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-Current
-======
-* M.S. TG Group, [Research Center for Social Computing and Interactive Robotics(SCIR)](http://ir.hit.edu.cn/), Harbin Institute of Technology
+
+Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof. Bing Qin](https://homepage.hit.edu.cn/qinbing) and [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). 
 
 Research Interests
 ======
