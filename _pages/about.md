@@ -29,7 +29,7 @@ Education
 Papers
 ======
 * **ACL 2025 Submission (CCF-A)** CAI: Caption-Sensitive Attention Intervention for Mitigating Object Hallucination in Large Vision-Language Models
-  * **Qiming Li***, Zekai Ye*, Xiaocheng Feng, Libo Qin, Weihong Zhong, Ruihan Chen, Lei Huang, Baohang Li, Kui Jiang, Yaowei Wang, Ting Liu, Bing Qin
+  * **Qiming Li**, Zekai Ye, Xiaocheng Feng, Libo Qin, Weihong Zhong, Ruihan Chen, Lei Huang, Baohang Li, Kui Jiang, Yaowei Wang, Ting Liu, Bing Qin
     
 * **ACL 2025 Submission (CCF-A)** CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention
   * Zekai Ye*, __Qiming Li*__, Xiaocheng Feng, Libo Qin, Yichong Huang, Baohang Li, Kui Jiang, Yang Xiang, Zhirui Zhang, Yunfei Lu, Duyu Tang, Dandan Tu, Bing Qin
