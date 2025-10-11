@@ -14,10 +14,12 @@ Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.
 
 Currently, I am seeking a PhD. opportunity.
 
+
 Publications
 ======
 
 **(ACL2025) CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention** [[pdf]](https://arxiv.org/pdf/2506.11073)[code]
+
 Zekai Ye*, __Qiming Li*__, Xiaocheng Feng, Libo Qin, Yichong Huang, Baohang Li, Kui Jiang, Yang Xiang, Zhirui Zhang, Yunfei Lu, Duyu Tang, Dandan Tu, Bing Qin
 
 **(CVPR2025Highlight) RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness** [[pdf]](https://arxiv.org/abs/2405.17220)[[code]](https://github.com/RLHF-V/RLAIF-V/)
@@ -53,6 +55,10 @@ Internship
   * Duties: Machine Vision, Deep Learning
   * Supervisor: [Prof.Xiaokun Leng](https://homepage.hit.edu.cn/lengxiaokun)
 
+Professional Services
+======
+* 2025 ARR May (Reviewer), AAAI (Program Committee), ICLR (Reviewer)
+
 
 Teaching
 ======
@@ -67,6 +73,7 @@ Education
     
 Awards
 ======
+* Graduate Entrance Scholarship (Top Class), Graduate Academic Scholarship (Top Class), People’s Scholarship, and Outstanding Student Award.
 * 2023全国大学生机器人竞赛[Robomaster](https://www.robomaster.com/zh-CN)
   * [RoboMaster 2023机甲大师超级对抗赛全国赛————全国一等奖（八强）](https://www.robomaster.com/zh-CN/resource/pages/announcement/1617)
   * [RoboMaster 2023机甲大师超级对抗赛分区赛————中部赛区冠军](https://www.robomaster.com/zh-CN/resource/pages/announcement/1607)
