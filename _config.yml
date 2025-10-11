@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Academicpage of Qiming Li"
+title                    : "Qiming Li"
 title_separator          : "-"
 name                     : &name "Qiming Li"
 description              : &description "Qiming Li's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Qiming Li(启明 李)"
-  pronouns         : "he/his"# example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  #pronouns         : "he/his"# example: "she/her"  
+  #bio              : "Short biography for the left-hand sidebar"
   location         : "Harbin, China"
   employer         : "Harbin Institute of Technology"#"Red Brick University"
-  uri              : # URL
+  u#ri              : # URL
   email            : "qmli@ir.hit.edu.cn"
 
   # Academic websites
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
