@@ -17,13 +17,13 @@ Currently, I am seeking a PhD. opportunity.
 Publications
 ======
 
-* **(ACL2025)** [CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention](https://arxiv.org/pdf/2506.11073)
+**(ACL2025)CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention** [pdf](https://arxiv.org/pdf/2506.11073)
   * Zekai Ye*, __Qiming Li*__, Xiaocheng Feng, Libo Qin, Yichong Huang, Baohang Li, Kui Jiang, Yang Xiang, Zhirui Zhang, Yunfei Lu, Duyu Tang, Dandan Tu, Bing Qin
 
-* **(CVPR2025Highlight)** [RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness](https://arxiv.org/abs/2405.17220)
+**(CVPR2025Highlight)RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness** [pdf](https://arxiv.org/abs/2405.17220)
   * Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, Ganqu Cui, Yunkai Dang, Taiwen He, Xiaocheng Feng, Jun Song, Bo Zheng, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun
 
-* **(ACL2024)** [Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models](https://arxiv.org/abs/2407.00569)
+**(ACL2024)Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models** [pdf](https://arxiv.org/abs/2407.00569)
   * Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
  
   
