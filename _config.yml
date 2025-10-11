@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Qiming Li(启明 李)"
-  pronouns         : he/his# example: "she/her"  
+  pronouns         : "he/his"# example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : #"Red Brick University"
+  location         : "Harbin, China"
+  employer         : "Harbin Institute of Technology"#"Red Brick University"
   uri              : # URL
-  email            : qmli@ir.hit.edu.cn"none@example.org" 
+  email            : "qmli@ir.hit.edu.cn"
 
   # Academic websites
   academia         : # URL
