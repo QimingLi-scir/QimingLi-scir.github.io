@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). My research interests include Large **Vision-Language Models (LVLMs)**, **Hallucination**, and **Reasoning**. Outside of research, I enjoy playing basketball and singing (a big fan of Lebron James and Eason Chan).  
+Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). My research interests include **Large Vision-Language Models (LVLMs)**, **Hallucination**, and **Reasoning**. Outside of research, I enjoy playing basketball and singing (a big fan of Lebron James and Eason Chan).  
 
 Currently, I am seeking a PhD. opportunity.
 
@@ -41,7 +41,7 @@ Internship
 * Oct.2023-Jan.2024: Research Assistant
   * [iFLYTEK CO., LTD.](https://www.iflytek.com/)
   * Department: R&D, AI Lab, COG7      
-  * Duties: Speech machine translation, Data mining, DeepLearning
+  * Duties: Speech Machine Translation
   * Supervisor: PhD.Xinyuan Zhou
 
 * Oct.2022-Aug.2023: Vision Control Algorithm Engineer
@@ -57,7 +57,7 @@ Internship
 
 Professional Services
 ======
-* 2025 ARR May (Reviewer), AAAI (Program Committee), ICLR (Reviewer)
+* 2025: ARR May (Reviewer), AAAI (Program Committee), ICLR (Reviewer)
 
 
 Teaching
