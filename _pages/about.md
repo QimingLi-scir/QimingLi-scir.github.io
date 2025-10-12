@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). My research interests include **Large Vision-Language Models (LVLMs)**, **Hallucination**, and **Reasoning**. Outside of research, I enjoy playing basketball and singing (a big fan of Lebron James and Eason Chan).  
+Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). My research interests include **Large Vision-Language Models (LVLMs)**, **Hallucination**, and **Reasoning**. Outside of research, I enjoy playing basketball and singing (a big fan of Lebron James and Eason Chan).  
 
 Currently, I am seeking a PhD. opportunity.
 
