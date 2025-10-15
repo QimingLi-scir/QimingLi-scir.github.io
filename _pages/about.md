@@ -17,7 +17,7 @@ Currently, I am seeking a PhD. opportunity.
 
 Publications
 ======
-
+<span style="color: red;">**(ACL2025)**</span>
 **(ACL2025) CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention** [[pdf]](https://arxiv.org/pdf/2506.11073)[code]
 
 Zekai Ye*, __Qiming Li*__, Xiaocheng Feng, Libo Qin, Yichong Huang, Baohang Li, Kui Jiang, Yang Xiang, Zhirui Zhang, Yunfei Lu, Duyu Tang, Dandan Tu, Bing Qin
