@@ -17,7 +17,7 @@ Currently, I am seeking a PhD. opportunity.
 
 Publications
 ======
-<span style="color: red;">**(ACL2025)**</span>
+<span style="color: red;">**(ACL2025 main)**</span>
 **CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention** [[pdf]](https://arxiv.org/pdf/2506.11073)[code]
 
 Zekai Ye*, __Qiming Li*__, Xiaocheng Feng, Libo Qin, Yichong Huang, Baohang Li, Kui Jiang, Yang Xiang, Zhirui Zhang, Yunfei Lu, Duyu Tang, Dandan Tu, Bing Qin
@@ -27,7 +27,7 @@ Zekai Ye*, __Qiming Li*__, Xiaocheng Feng, Libo Qin, Yichong Huang, Baohang Li, 
 
 Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, Ganqu Cui, Yunkai Dang, Taiwen He, Xiaocheng Feng, Jun Song, Bo Zheng, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun
 
-<span style="color: red;">**(ACL2024)**</span>
+<span style="color: red;">**(ACL2024 main)**</span>
 **Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models** [[pdf]](https://arxiv.org/abs/2407.00569)[[code]](https://github.com/whongzhong/MMHalSnowball)
 
 Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
