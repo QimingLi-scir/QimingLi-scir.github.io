@@ -31,6 +31,8 @@ Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, 
 **Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models** [[pdf]](https://arxiv.org/abs/2407.00569)[[code]](https://github.com/whongzhong/MMHalSnowball)
 
 Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
+
+***Three additional first-author works are currently under review.***
  
   
 Internship
