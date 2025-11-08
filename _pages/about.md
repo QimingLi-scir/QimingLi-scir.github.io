@@ -17,6 +17,11 @@ Currently, I am seeking a PhD. opportunity.
 
 Publications
 ======
+<span style="color: red;">**(AAAI2026 Oral Top-4%)**</span>
+**Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation** [pdf][code]
+
+__Qiming Li*__, Zekai Ye*, Xiaocheng Feng, Weihong Zhong, Weitao Ma, Xiachong Feng 
+
 <span style="color: red;">**(ACL2025 Main)**</span>
 **CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention** [[pdf]](https://arxiv.org/pdf/2506.11073)[code]
 
