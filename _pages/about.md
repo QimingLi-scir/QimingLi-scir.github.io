@@ -18,22 +18,22 @@ Currently, I am seeking a PhD. opportunity.
 Publications
 ======
 <span style="color: red;">**(AAAI2026 Oral Top-4%)**</span>
-**Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation** [[pdf]](https://arxiv.org/abs/2511.05923)[code]
+**Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation** [[pdf]](https://arxiv.org/abs/2511.05923)
 
 **Qiming Li**, Zekai Ye, Xiaocheng Feng, Weihong Zhong, Weitao Ma, Xiachong Feng 
 
 <span style="color: red;">**(ACL2025 Main)**</span>
-**CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention** [[pdf]](https://arxiv.org/pdf/2506.11073)[code]
+**CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention** [[pdf]](https://arxiv.org/pdf/2506.11073)
 
 Zekai Ye*, __Qiming Li*__, Xiaocheng Feng, Libo Qin, Yichong Huang, Baohang Li, Kui Jiang, Yang Xiang, Zhirui Zhang, Yunfei Lu, Duyu Tang, Dandan Tu, Bing Qin
 
-<span style="color: red;">**(CVPR2025 Highlight)**</span>
-**RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness** [[pdf]](https://arxiv.org/abs/2405.17220)[[code]](https://github.com/RLHF-V/RLAIF-V/)
+<span style="color: red;">**(CVPR2025 Highlight Top-3%)**</span>
+**RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness** [[pdf]](https://arxiv.org/abs/2405.17220)
 
 Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, Ganqu Cui, Yunkai Dang, Taiwen He, Xiaocheng Feng, Jun Song, Bo Zheng, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun
 
 <span style="color: red;">**(ACL2024 Main)**</span>
-**Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models** [[pdf]](https://arxiv.org/abs/2407.00569)[[code]](https://github.com/whongzhong/MMHalSnowball)
+**Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models** [[pdf]](https://arxiv.org/abs/2407.00569)
 
 Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
 
