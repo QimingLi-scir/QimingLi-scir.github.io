@@ -39,6 +39,18 @@ Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, 
 
 Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
 
+### 2. Multilingual Perception & Reasoning Enhancement
+<span style="color: blue;">***arXiv***</span>
+**Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering** [[pdf]](https://arxiv.org/abs/2511.23231)
+
+**Qiming Li**, Xiaocheng Feng, Yixuan Ma, Zekai Ye, Ruihan Chen, Xiachong Feng, Bing Qin
+
+<span style="color: blue;">***arXiv***</span>
+**Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering** [pdf]
+MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents
+
+Ruihan Chen, **Qiming Li**, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxuan Gu, Zekun Zhou, Bing Qin
+
 ***Three additional first-author works are currently under review.***
  
   
