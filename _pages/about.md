@@ -46,10 +46,9 @@ Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, 
 **Qiming Li**, Xiaocheng Feng, Yixuan Ma, Zekai Ye, Ruihan Chen, Xiachong Feng, Bing Qin
 
 <span style="color: blue;">**(*arXiv*)**</span>
-**Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering** [pdf]
-MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents
+**MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents** [pdf]
 
-Ruihan Chen, **Qiming Li**, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxuan Gu, Zekun Zhou, Bing Qin
+Ruihan Chen, **Qiming Li***, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxuan Gu, Zekun Zhou, Bing Qin
 
 ***Three additional first-author works are currently under review.***
  
