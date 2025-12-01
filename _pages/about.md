@@ -17,6 +17,8 @@ Currently, I am seeking a PhD. opportunity.
 
 Publications
 ======
+### 1. Halluciantion of Large Vision- Language Models
+
 <span style="color: red;">**(AAAI2026 Oral Top-4%)**</span>
 **Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation** [[pdf]](https://arxiv.org/abs/2511.05923)
 
