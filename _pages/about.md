@@ -46,7 +46,7 @@ Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, 
 **Qiming Li**, Xiaocheng Feng, Yixuan Ma, Zekai Ye, Ruihan Chen, Xiachong Feng, Bing Qin
 
 <span style="color: blue;">**(*arXiv*)**</span>
-**MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents** [pdf]
+**MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents** [[pdf]](https://arxiv.org/abs/2512.00756)
 
 Ruihan Chen, **Qiming Li***, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxuan Gu, Zekun Zhou, Bing Qin
 
