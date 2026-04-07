@@ -10,14 +10,14 @@ redirect_from:
 
 {% include base_path %}
 
-Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). My research interests include **Large Vision-Language Models (LVLMs)**, **Hallucination**, and **Reasoning**. Outside of research, I enjoy playing basketball and singing (a big fan of Lebron James and Eason Chan).  
+Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). My research interests include **Large Vision-Language Models (LVLMs)**, **Reinforcement Learning** and **Hallucination**. Outside of research, I enjoy playing basketball and singing (a big fan of Lebron James and Eason Chan).  
 
 Currently, I am seeking a PhD. opportunity.
 
 
 Publications
 ======
-## 1. Halluciantion of Large Vision- Language Models
+## 1. Halluciantion of Large Vision-Language Models
 
 <span style="color: red;">**(AAAI2026 Oral Top-4%)**</span>
 **Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation** [[pdf]](https://arxiv.org/abs/2511.05923)
