@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh) and [Prof.Bing Qin](https://homepage.hit.edu.cn/qinbing). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), and a research assistant of [HKUNLP](https://hkunlp.github.io/) under the supervision of [PoD.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/). My research interests include **Large Vision-Language Models (LVLMs)**, **Reinforcement Learning**, and **Multimodal Representation Learning**. 
+Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh) and [Prof.Bing Qin](https://homepage.hit.edu.cn/qinbing). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), and a research assistant of [HKUNLP](https://hkunlp.github.io/) under the supervision of [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/). My research interests include **Large Vision-Language Models (LVLMs)**, **Reinforcement Learning**, and **Multimodal Representation Learning**. 
 
-Currently, I am seeking a PhD. opportunity.
+Currently, I am seeking a Ph.D opportunity.
 
 
 Selected Publications
@@ -56,7 +56,7 @@ Ruihan Chen, **Qiming Li***, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxu
 Academic Research Experience
 ======
 * Mar.2025-Sep.2025: [HKUNLP](https://hkunlp.github.io/), The University of HongKong, Research Intern
-  * Supervisor: [PoD.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/)
+  * Supervisor: [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/)
 
 * Jul.2024-Feb.2025: [THUNLP](https://nlp.csai.tsinghua.edu.cn/), Tsinghua University, Research Intern
   * Supervisor: [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/)
@@ -67,24 +67,12 @@ Academic Research Experience
     
 Industry Research Experience
 ======
-* Oct.2025-Jan.2026: [Huawei](), Research Intern
-  * Department: Device BG, Device Cloud Service Xiaoyi Business Dept
-  
-* July.2024-Feb.2025: [ModelBest](https://modelbest.cn/), Research Intern
-  * Department: LVLM Group  
-     
-* Oct.2023-Jan.2024: [iFLYTEK CO., LTD.](https://www.iflytek.com/), Research Intern
-  * Department: R&D, AI Lab, COG7      
-  * Duties: Speech Machine Translation
-    
-* Oct.2022-Aug.2023: [HITCRT](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E7%AB%9E%E6%8A%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%98%9F#7), Vision Control Algorithm Engineer
-  * Department: Vision Group    
-  * Duties: Machine Vision, Six-degree-of-freedom Robot Arm Control
-  
+* Oct.2025-Jan.2026: [Huawei, Xiaoyi](), Research Intern
+* July.2024-Feb.2025: [ModelBest](https://modelbest.cn/), Research Intern  
+* Oct.2023-Jan.2024: [iFLYTEK CO., LTD.](https://www.iflytek.com/), Research Intern 
+* Oct.2022-Aug.2023: [HITCRT](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E7%AB%9E%E6%8A%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%98%9F#7), Vision Control Algorithm Engineer  
 * Jan.2022-Feb.2022: [Leju (Shenzhen) Robotics Technology Co., Ltd](https://www.lejurobot.com/), Vision Algorithm Engineer
-  * Department: Vision Algorithm R&D
-  * Duties: Machine Vision Algorithm
-  * Supervisor: [Prof.Xiaokun Leng](https://homepage.hit.edu.cn/lengxiaokun)
+
 
 Professional Services
 ======
