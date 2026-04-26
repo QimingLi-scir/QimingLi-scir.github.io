@@ -53,33 +53,38 @@ Ruihan Chen, **Qiming Li***, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxu
 ***Three additional first-author works are currently under review.***
  
   
-Internship
+Academic Research Experience
 ======
-* Jul.2024-Feb.2025: Research Intern
-  * [THUNLP](https://nlp.csai.tsinghua.edu.cn/), Tsinghua University
-  * Department: LVLM Group
+* Mar.2025-Sep.2025: [HKUNLP](https://hkunlp.github.io/), The University of HongKong, Research Intern
+  * Supervisor: [PoD.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/)
+
+* Jul.2024-Feb.2025: [THUNLP](https://nlp.csai.tsinghua.edu.cn/), Tsinghua University, Research Intern
   * Supervisor: [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/)
+
     
-* Oct.2023-Jan.2024: Research Assistant
-  * [iFLYTEK CO., LTD.](https://www.iflytek.com/)
+
+ 
+    
+Industry Research Experience
+======
+* Oct.2023-Jan.2024: [iFLYTEK CO., LTD.](https://www.iflytek.com/), Research Assistant
   * Department: R&D, AI Lab, COG7      
   * Duties: Speech Machine Translation
   * Supervisor: PhD.Xinyuan Zhou
-
+    
 * Oct.2022-Aug.2023: Vision Control Algorithm Engineer
   * [HITCRT](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E7%AB%9E%E6%8A%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%98%9F#7)
   * Department: Vision Group    
   * Duties included: Machine Vision, Six-degree-of-freedom Robot Arm Control
   
-* Jan.2022-Feb.2022: Vision Algorithm Engineer
-  * [Leju (Shenzhen) Robotics Technology Co., Ltd](https://www.lejurobot.com/)
+* Jan.2022-Feb.2022: [Leju (Shenzhen) Robotics Technology Co., Ltd](https://www.lejurobot.com/), Vision Algorithm Engineer
   * Department: Vision Algorithm R&D
   * Duties: Machine Vision, Deep Learning
   * Supervisor: [Prof.Xiaokun Leng](https://homepage.hit.edu.cn/lengxiaokun)
 
 Professional Services
 ======
-* 2025: ARR May (Reviewer), AAAI (Program Committee), ICLR (Reviewer)
+* 2025: ARR (Reviewer), AAAI (Program Committee), ICLR (Reviewer)
 
 
 Teaching
@@ -95,6 +100,7 @@ Education
     
 Awards
 ======
+* HIT(SZ) Insun Scholarship (Top-1%)
 * Graduate Entrance Scholarship (Top Class), Graduate Academic Scholarship (Top Class), People’s Scholarship, and Outstanding Student Award.
 * 2023全国大学生机器人竞赛[Robomaster](https://www.robomaster.com/zh-CN)
   * [RoboMaster 2023机甲大师超级对抗赛全国赛————全国一等奖（八强）](https://www.robomaster.com/zh-CN/resource/pages/announcement/1617)
