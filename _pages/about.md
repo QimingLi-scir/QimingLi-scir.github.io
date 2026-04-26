@@ -15,9 +15,9 @@ Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.
 Currently, I am seeking a Ph.D opportunity.
 
 
-## Selected Publications
-======
-### 1. Halluciantion of Large Vision-Language Models
+# Selected Publications
+
+## 1. Halluciantion of Large Vision-Language Models
 
 <span style="color: red;">**(AAAI2026 Oral Top-4%)**</span>
 **Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation** [[pdf]](https://arxiv.org/abs/2511.05923)
@@ -39,7 +39,7 @@ Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, 
 
 Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
 
-### 2. Multilingual Perception & Reasoning Enhancement
+## 2. Multilingual Perception & Reasoning Enhancement
 <span style="color: red;">**(ACL2026 Main)**</span>
 **Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering** [[pdf]](https://arxiv.org/abs/2511.23231)
 
@@ -53,16 +53,16 @@ Ruihan Chen, **Qiming Li***, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxu
 ***Three additional first-author works are currently under review.***
  
   
-## Academic Research Experience
-======
+# Academic Research Experience
+
 * Mar.2025-Sep.2025: [HKUNLP](https://hkunlp.github.io/), The University of HongKong, Research Intern
   * Supervisor: [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/)
 
 * Jul.2024-Feb.2025: [THUNLP](https://nlp.csai.tsinghua.edu.cn/), Tsinghua University, Research Intern
   * Supervisor: [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/)
 
-## Industry Research Experience
-======
+# Industry Research Experience
+
 * Oct.2025-Jan.2026: [Huawei, Xiaoyi](), Research Intern
 * July.2024-Feb.2025: [ModelBest](https://modelbest.cn/), Research Intern  
 * Oct.2023-Jan.2024: [iFLYTEK](https://www.iflytek.com/), Research Intern 
@@ -70,24 +70,24 @@ Ruihan Chen, **Qiming Li***, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxu
 * Jan.2022-Feb.2022: [Leju (Shenzhen) Robotics](https://www.lejurobot.com/), Vision Algorithm Engineer
 
 
-## Professional Services
-======
+# Professional Services
+
 * 2025: ARR (Reviewer), AAAI (Program Committee), ICLR (Reviewer)
 
 
-## Teaching
-======
+# Teaching
+
 * Teaching Assistant @ Harbin Institute of Technology
   * 22CS31052 Knowledge Representation and Reasoning, Spring 2025
  
-## Education
-====== 
+# Education
+
 - <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:35px;height:30px;"> B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
 - <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:35px;height:30px;"> M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2027(expected)
   - Supervisor: [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)
     
-## Awards
-======
+# Awards
+
 * HIT(ShenZhen) Insun Scholarship (Top-1%)
 * Graduate Entrance Scholarship (Top Class)
 * Graduate Academic Scholarship (Top Class)
