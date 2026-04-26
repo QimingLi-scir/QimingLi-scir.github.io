@@ -41,3 +41,14 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+#main {
+  max-width: 1200px; /* 你理想的宽度 */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 针对正文区域，确保它占据足够比例 */
+.page__content {
+  width: 100% !important; /* 如果有侧边栏，这里可能需要调整 */
+  max-width: 100% !important;
+}
