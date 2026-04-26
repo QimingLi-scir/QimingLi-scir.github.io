@@ -88,7 +88,7 @@ Education
     
 Awards
 ======
-* HIT(SZ) Insun Scholarship (Top-1%)
+* HIT(ShenZhen) Insun Scholarship (Top-1%)
 * Graduate Entrance Scholarship (Top Class)
 * Graduate Academic Scholarship (Top Class)
 * HIT Outstanding Graduate Student Award
