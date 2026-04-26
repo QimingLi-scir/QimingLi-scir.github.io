@@ -17,7 +17,7 @@ Currently, I am seeking a Ph.D opportunity.
 
 Selected Publications
 ======
-## 1. Halluciantion of Large Vision-Language Models
+### 1. Halluciantion of Large Vision-Language Models
 
 <span style="color: red;">**(AAAI2026 Oral Top-4%)**</span>
 **Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation** [[pdf]](https://arxiv.org/abs/2511.05923)
@@ -39,7 +39,7 @@ Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, 
 
 Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
 
-## 2. Multilingual Perception & Reasoning Enhancement
+### 2. Multilingual Perception & Reasoning Enhancement
 <span style="color: red;">**(ACL2026 Main)**</span>
 **Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering** [[pdf]](https://arxiv.org/abs/2511.23231)
 
