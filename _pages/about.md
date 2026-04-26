@@ -8,6 +8,22 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  /* 针对有侧边栏的页面，拉宽右侧内容区 */
+  @media (min-width: 64em) {
+    .archive, .page {
+      width: calc(100% - 250px) !important; /* 250px是侧边栏预留宽度 */
+      padding-right: 40px !important;
+      max-width: 1200px !important; /* 限制一个最大宽度，防止太宽导致阅读困难 */
+    }
+  }
+
+  /* 暴力拉宽主容器 */
+  .wrapper {
+    max-width: 95% !important;
+  }
+</style>
+
 {% include base_path %}
 
 Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh) and [Prof.Bing Qin](https://homepage.hit.edu.cn/qinbing). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), and a research assistant of [HKUNLP](https://hkunlp.github.io/) under the supervision of [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/). My research interests include **Large Vision-Language Models (LVLMs)**, **Reinforcement Learning**, and **Multimodal Representation Learning**. 
