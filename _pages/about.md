@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <style>
   /* 针对有侧边栏的页面，拉宽右侧内容区 */
   @media (min-width: 64em) {
