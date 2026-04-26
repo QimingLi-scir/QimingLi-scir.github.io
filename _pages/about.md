@@ -10,12 +10,12 @@ redirect_from:
 
 {% include base_path %}
 
-Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/). My research interests include **Large Vision-Language Models (LVLMs)**, **Reinforcement Learning** and **Hallucination**. Outside of research, I enjoy playing basketball and singing (a big fan of Lebron James and Eason Chan).  
+Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh) and [Prof.Bing Qin](https://homepage.hit.edu.cn/qinbing). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), and a research assistant of [HKUNLP](https://hkunlp.github.io/) under the supervision of [PoD.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/). My research interests include **Large Vision-Language Models (LVLMs)**, **Reinforcement Learning**, and **Multimodal Representation Learning**. 
 
 Currently, I am seeking a PhD. opportunity.
 
 
-Publications
+Selected Publications
 ======
 ## 1. Halluciantion of Large Vision-Language Models
 
