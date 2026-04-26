@@ -16,7 +16,6 @@ Currently, I am seeking a Ph.D opportunity.
 
 
 # Selected Publications
-
 ## 1. Halluciantion of Large Vision-Language Models
 
 <span style="color: red;">**(AAAI2026 Oral Top-4%)**</span>
