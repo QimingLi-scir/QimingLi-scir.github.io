@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Qiming Li (启明 李)"
   #pronouns         : "he/his"# example: "she/her"  
-  bio              : "Patience is the key in life."
+  bio              : "Master Student, SCIR, HIT."
   location         : "Harbin, China"
   employer         : "Harbin Institute of Technology"#"Red Brick University"
   u#ri              : # URL
@@ -240,7 +240,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: fasle
       read_time: true
       comments: true
       share: true
