@@ -61,7 +61,7 @@ Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, 
 <span style="color: red;">**(ACL2026 Main)**</span>
 **MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents** [[pdf]](https://arxiv.org/abs/2512.00756)
 
-Ruihan Chen*, **Qiming Li***, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxuan Gu, Zekun Zhou, Bing Qin
+Ruihan Chen*, __Qiming Li*__, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxuan Gu, Zekun Zhou, Bing Qin
 
 ***Three additional first-author works are currently under review.***
  
