@@ -61,7 +61,7 @@ Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, 
 <span style="color: red;">**(ACL2026 Main)**</span>
 **MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents** [[pdf]](https://arxiv.org/abs/2512.00756)
 
-Ruihan Chen, **Qiming Li***, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxuan Gu, Zekun Zhou, Bing Qin
+Ruihan Chen*, **Qiming Li***, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxuan Gu, Zekun Zhou, Bing Qin
 
 ***Three additional first-author works are currently under review.***
  
@@ -76,6 +76,7 @@ Academic Research Experience
 
 Industry Research Experience
 =====
+* Jun.2026-now: [Meituan, Longcat](https://github.com/meituan-longcat), Research Intern
 * Oct.2025-Jan.2026: [Huawei, Xiaoyi](), Research Intern
 * July.2024-Feb.2025: [ModelBest](https://modelbest.cn/), Research Intern  
 * Oct.2023-Jan.2024: [iFLYTEK](https://www.iflytek.com/), Research Intern 
