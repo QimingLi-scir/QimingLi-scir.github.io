@@ -25,7 +25,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh) and [Prof.Bing Qin](https://homepage.hit.edu.cn/qinbing). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), and a research assistant of [HKUNLP](https://hkunlp.github.io/) under the supervision of [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/). My research interests include **Large Vision-Language Models (LVLMs)**, **Reinforcement Learning**, and **Multimodal Representation Learning**. 
+Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh) and [Prof.Bing Qin](https://homepage.hit.edu.cn/qinbing). I am currently working as a research intern at [Meituan Longcat Team](https://github.com/meituan-longcat). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), and a research assistant of [HKUNLP](https://hkunlp.github.io/) under the supervision of [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/). My research interests include **Large Vision-Language Models (LVLMs)**, **Reinforcement Learning**, and **Multimodal Representation Learning**. 
 
 
 Selected Publications
@@ -76,7 +76,7 @@ Academic Research Experience
 
 Industry Research Experience
 =====
-* Jun.2026-now: [Meituan, Longcat](https://github.com/meituan-longcat), Research Intern
+* May.2026-now: [Meituan, Longcat Team](https://github.com/meituan-longcat), Research Intern
 * Oct.2025-Jan.2026: [Huawei, Xiaoyi](), Research Intern
 * July.2024-Feb.2025: [ModelBest](https://modelbest.cn/), Research Intern  
 * Oct.2023-Jan.2024: [iFLYTEK](https://www.iflytek.com/), Research Intern 
@@ -85,7 +85,8 @@ Industry Research Experience
 
 Professional Services
 =====
-* 2025: ARR (Reviewer), AAAI (Program Committee), ICLR (Reviewer)
+* 2025: ACL ARR (Reviewer), AAAI (Program Committee), ICLR (Reviewer)
+* 2026: ACL ARR (Reviewer), ACM MM (Reviewer), NeurIPS (Reviewer) 
 
 Teaching
 =====
