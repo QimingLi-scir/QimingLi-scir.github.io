@@ -63,7 +63,7 @@ Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, 
 
 Ruihan Chen*, __Qiming Li*__, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxuan Gu, Zekun Zhou, Bing Qin
 
-***Three additional first-author works are currently under review.***
+
  
   
 Academic Research Experience
