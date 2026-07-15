@@ -52,7 +52,7 @@ Zekai Ye, **Qiming Li**, Xiaocheng Feng, Ruihan Chen, Ziming Li, Haoyu Ren, Kun 
 <span style="color: red;">**(WAICA2026 Oral, 世界人工智能大会论文)**</span>
 **CAST: Mitigating Object Hallucination in Large Vision-Language Models via Caption-Guided Visual Attention Steering** [[pdf]](https://arxiv.org/pdf/2605.04641)
 
-Qiming Li, Zekai Ye, Xiaocheng Feng, Weihong Zhong, Ruihan Chen, Lei Huang, Baohang Li, Bing Qin
+**Qiming Li**, Zekai Ye, Xiaocheng Feng, Weihong Zhong, Ruihan Chen, Lei Huang, Baohang Li, Bing Qin
 
 <span style="color: red;">**(AAAI2026 Oral Top-4%)**</span>
 **Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation** [[pdf]](https://arxiv.org/abs/2511.05923)
@@ -99,6 +99,7 @@ Academic Research Experience
 Industry Research Experience
 =====
 * May.2026 - now: [Meituan, Longcat Team](https://github.com/meituan-longcat), Research Intern
+* Jan.2026 - May.2026: [Alibaba, Abot Team](https://github.com/amap-cvlab), Research Intern
 * Oct.2025 - Jan.2026: [Huawei, Xiaoyi](), Research Intern
 * July.2024 - Feb.2025: [ModelBest](https://modelbest.cn/), Research Intern  
 * Oct.2023 - Jan.2024: [iFLYTEK](https://www.iflytek.com/), Research Intern 
@@ -108,7 +109,7 @@ Industry Research Experience
 Professional Services
 =====
 * 2025: ACL ARR (Reviewer), AAAI (Program Committee), ICLR (Reviewer)
-* 2026: ACL ARR (Reviewer), ACM MM (Reviewer), NeurIPS (Reviewer) 
+* 2026: ACL ARR (Reviewer), AAAI (Program Committee), ACM MM (Reviewer), NeurIPS (Reviewer) 
 
 Teaching
 =====
