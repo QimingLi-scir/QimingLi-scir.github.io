@@ -25,12 +25,18 @@ redirect_from:
 
 {% include base_path %}
 
-Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh) and [Prof.Bing Qin](https://homepage.hit.edu.cn/qinbing). I am currently working as a research intern at [Meituan Longcat Team](https://github.com/meituan-longcat). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), and a research assistant of [HKUNLP](https://hkunlp.github.io/) under the supervision of [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/). My research interests include **Large Vision-Language Models (LVLMs)**, **Reinforcement Learning**, and **Multimodal Representation Learning**. 
+Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh) and [Prof.Bing Qin](https://homepage.hit.edu.cn/qinbing). I am currently working as a research intern at [Meituan Longcat Team](https://github.com/meituan-longcat). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), and a research assistant of [HKUNLP](https://hkunlp.github.io/) under the supervision of [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/). My research interests focus on **Large Vision-Language Models (LVLMs)**, including **OPD**, **Coding & Web Agent** and **Hallucination**. 
 
 
 Selected Publications
 =====
-## 1. Halluciantion of Large Vision-Language Models
+## 1. OPD of Large Vision-Language Models
+<span style="color: blue;">**(arXiv)**</span>
+**PRPO: Perception-Reinforced Policy Optimization via Token-Level Dynamic Advantage Reshaping** [[pdf]](https://arxiv.org/pdf/2606.08708)
+
+**Qiming Li**, Tianlun Li, Xiaolong Cheng, Hangyu Li, Ruiyan Gong, Kangning Niu, Kaitao Jiang, Mu Xu
+
+## 2. Halluciantion of Large Vision-Language Models
 
 <span style="color: red;">**(AAAI2026 Oral Top-4%)**</span>
 **Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation** [[pdf]](https://arxiv.org/abs/2511.05923)
@@ -52,7 +58,7 @@ Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, 
 
 Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
 
-## 2. Multilingual Perception & Reasoning Enhancement
+## 3. Multilingual Perception & Reasoning Enhancement
 <span style="color: red;">**(ACL2026 Main)**</span>
 **Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering** [[pdf]](https://arxiv.org/abs/2511.23231)
 
