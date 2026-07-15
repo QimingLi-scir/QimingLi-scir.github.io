@@ -34,7 +34,7 @@ Selected Publications
 <span style="color: blue;">**(arXiv)**</span>
 **MT-Web2Code: A Multi-Turn Multimodal Benchmark for Iterative Web UI Coding** [[pdf]]()
 
-Longcat Team
+**Qiming Li**, intern @ Longcat Team
 
 ## 1. OPD of LVLMs
 <span style="color: blue;">**(arXiv)**</span>
