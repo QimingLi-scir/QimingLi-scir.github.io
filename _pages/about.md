@@ -30,13 +30,13 @@ Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.
 
 Selected Publications
 =====
-## 0. Multi-modal Coding Agent
+## 0. Multimodal Coding Agent
 <span style="color: blue;">**(arXiv)**</span>
 **MT-Web2Code: A Multi-Turn Multimodal Benchmark for Iterative Web UI Coding** [[pdf]]()
 
-**Qiming Li**, intern @ Longcat Team
+**Qiming Li**, Intern @ Longcat Team
 
-## 1. OPD of LVLMs
+## 1. OPD of VLMs
 <span style="color: blue;">**(arXiv)**</span>
 **PRPO: Perception-Reinforced Policy Optimization via Token-Level Dynamic Advantage Reshaping** [[pdf]](https://arxiv.org/pdf/2606.08708)
 
@@ -47,7 +47,7 @@ Selected Publications
 
 Zekai Ye, **Qiming Li**, Xiaocheng Feng, Ruihan Chen, Ziming Li, Haoyu Ren, Kun Chen, Dandan Tu, Bing Qin
 
-## 2. Halluciantion of LVLMs
+## 2. Halluciantion of VLMs
 
 <span style="color: red;">**(WAICA2026 Oral, 世界人工智能大会论文)**</span>
 **CAST: Mitigating Object Hallucination in Large Vision-Language Models via Caption-Guided Visual Attention Steering** [[pdf]](https://arxiv.org/pdf/2605.04641)
@@ -74,7 +74,7 @@ Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, 
 
 Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
 
-## 3. Multilingual Perception & Reasoning Enhancement
+## 3. Multilingual VLMs
 <span style="color: red;">**(ACL2026 Main)**</span>
 **Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering** [[pdf]](https://arxiv.org/abs/2511.23231)
 
