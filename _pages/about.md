@@ -30,13 +30,29 @@ Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.
 
 Selected Publications
 =====
-## 1. OPD of Large Vision-Language Models
+## 0. Multi-modal Coding Agent
+<span style="color: blue;">**(arXiv)**</span>
+**MT-Web2Code: A Multi-Turn Multimodal Benchmark for Iterative Web UI Coding** [[pdf]]()
+
+Longcat Team
+
+## 1. OPD of LVLMs
 <span style="color: blue;">**(arXiv)**</span>
 **PRPO: Perception-Reinforced Policy Optimization via Token-Level Dynamic Advantage Reshaping** [[pdf]](https://arxiv.org/pdf/2606.08708)
 
 **Qiming Li**, Tianlun Li, Xiaolong Cheng, Hangyu Li, Ruiyan Gong, Kangning Niu, Kaitao Jiang, Mu Xu
 
-## 2. Halluciantion of Large Vision-Language Models
+<span style="color: blue;">**(arXiv)**</span>
+**Not All Tokens See Equally: Perception-Grounded Policy Optimization for Large Vision-Language Models** [[pdf]](https://arxiv.org/pdf/2604.01840)
+
+Zekai Ye, **Qiming Li**, Xiaocheng Feng, Ruihan Chen, Ziming Li, Haoyu Ren, Kun Chen, Dandan Tu, Bing Qin
+
+## 2. Halluciantion of LVLMs
+
+<span style="color: red;">**(WAICA2026 Oral, 世界人工智能大会论文)**</span>
+**CAST: Mitigating Object Hallucination in Large Vision-Language Models via Caption-Guided Visual Attention Steering** [[pdf]](https://arxiv.org/pdf/2605.04641)
+
+Qiming Li, Zekai Ye, Xiaocheng Feng, Weihong Zhong, Ruihan Chen, Lei Huang, Baohang Li, Bing Qin
 
 <span style="color: red;">**(AAAI2026 Oral Top-4%)**</span>
 **Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation** [[pdf]](https://arxiv.org/abs/2511.05923)
