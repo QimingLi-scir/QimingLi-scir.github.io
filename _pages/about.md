@@ -25,7 +25,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh) and [Prof.Bing Qin](https://homepage.hit.edu.cn/qinbing). I am currently working as a research intern at [Meituan Longcat Team](https://github.com/meituan-longcat). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), and a research assistant of [HKUNLP](https://hkunlp.github.io/) under the supervision of [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/). My research interests focus on **Large Vision-Language Models (LVLMs)**, including **OPD**, **Coding & Web Agent** and **Hallucination**. 
+Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh) and [Prof.Bing Qin](https://homepage.hit.edu.cn/qinbing). I am currently working as a research intern at [Meituan Longcat Team](https://github.com/meituan-longcat). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), and a research assistant of [HKUNLP](https://hkunlp.github.io/) under the supervision of [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/). My research interests focus on **VLM Post-training**, including **SFT & OPD**, **Coding & Web Agent** and **Hallucination**. 
 
 Academic Research Experience
 =====
