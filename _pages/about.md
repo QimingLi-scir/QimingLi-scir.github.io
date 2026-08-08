@@ -25,7 +25,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh) and [Prof.Bing Qin](https://homepage.hit.edu.cn/qinbing). I am currently working as a research intern at [Meituan Longcat Team](https://github.com/meituan-longcat). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), and a research assistant of [HKUNLP](https://hkunlp.github.io/) under the supervision of [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/). My research interests focus on **VLM Post-training**, including **SFT & OPD**, **Coding & Web Agent** and **Hallucination**. 
+Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh) and [Prof.Bing Qin](https://homepage.hit.edu.cn/qinbing). I am currently working as a research intern at [Meituan Longcat Team](https://github.com/meituan-longcat). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), and a research assistant of [HKUNLP](https://hkunlp.github.io/) under the supervision of [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/). My research interests focus on **VLM Mid & Post Training**, including **SFT & OPD**, **Coding & Web Agent** and **Hallucination**. 
 
 Academic Research Experience
 =====
@@ -47,13 +47,13 @@ Industry Research Experience
 
 Selected Publications
 =====
-## 0. Multimodal Coding Agent
+## 1. Multimodal Coding Agent
 <span style="color: blue;">**(arXiv)**</span>
-**MT-Web2Code: A Multi-Turn Multimodal Benchmark for Iterative Web UI Coding** [[pdf]]()
+**MT-Web2Code: Benchmarking Coding Agents on Multi-Turn Regional Reconstruction and Localized Modification** [[pdf]](https://arxiv.org/abs/2608.03474)
 
-**Qiming Li**, Intern @ Longcat Team
+**Qiming Li**, Intern @ Meituan Longcat Team
 
-## 1. OPD of VLMs
+## 2. OPD of VLMs
 <span style="color: blue;">**(arXiv)**</span>
 **PRPO: Perception-Reinforced Policy Optimization via Token-Level Dynamic Advantage Reshaping** [[pdf]](https://arxiv.org/pdf/2606.08708)
 
@@ -64,7 +64,7 @@ Selected Publications
 
 Zekai Ye, **Qiming Li**, Xiaocheng Feng, Ruihan Chen, Ziming Li, Haoyu Ren, Kun Chen, Dandan Tu, Bing Qin
 
-## 2. Halluciantion of VLMs
+## 3. Hallucination of VLMs
 
 <span style="color: red;">**(WAICA2026 Oral, 世界人工智能大会论文)**</span>
 **CAST: Mitigating Object Hallucination in Large Vision-Language Models via Caption-Guided Visual Attention Steering** [[pdf]](https://arxiv.org/pdf/2605.04641)
@@ -91,7 +91,7 @@ Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, 
 
 Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
 
-## 3. Multilingual VLMs
+## 4. Multilingual VLMs
 <span style="color: red;">**(ACL2026 Main)**</span>
 **Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering** [[pdf]](https://arxiv.org/abs/2511.23231)
 
