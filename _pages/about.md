@@ -59,7 +59,7 @@ Selected Publications
 
 **Qiming Li**, Tianlun Li, Xiaolong Cheng, Hangyu Li, Ruiyan Gong, Kangning Niu, Kaitao Jiang, Mu Xu
 
-<span style="color: blue;">**(arXiv)**</span>
+<span style="color: red;">**(EMNLP2026 Findings)**</span>
 **Not All Tokens See Equally: Perception-Grounded Policy Optimization for Large Vision-Language Models** [[pdf]](https://arxiv.org/pdf/2604.01840)
 
 Zekai Ye, **Qiming Li**, Xiaocheng Feng, Ruihan Chen, Ziming Li, Haoyu Ren, Kun Chen, Dandan Tu, Bing Qin
