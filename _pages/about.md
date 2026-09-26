@@ -54,7 +54,7 @@ Selected Publications
 **Qiming Li**, Intern @ Meituan Longcat Team
 
 ## 2. OPD of VLMs
-<span style="color: blue;">**(arXiv)**</span>
+<span style="color: red;">**(NeurIPS2026 Poster)**</span>
 **PRPO: Perception-Reinforced Policy Optimization via Token-Level Dynamic Advantage Reshaping** [[pdf]](https://arxiv.org/pdf/2606.08708)
 
 **Qiming Li**, Tianlun Li, Xiaolong Cheng, Hangyu Li, Ruiyan Gong, Kangning Niu, Kaitao Jiang, Mu Xu
