@@ -45,4 +45,10 @@ redirect_from:
     <section id="awards" class="detail-section" aria-labelledby="awards-title"><p class="section-kicker">Milestones</p><h2 id="awards-title">Honors &amp; awards</h2>{% capture awards %}{% include home-awards.md %}{% endcapture %}{{ awards | markdownify }}</section>
   </div>
   <div class="contact"><p class="section-kicker">Let's connect</p><h2>Interested in multimodal AI?</h2><p><a href="mailto:qmli@ir.hit.edu.cn">qmli@ir.hit.edu.cn <span aria-hidden="true">↗</span></a></p></div>
+  <section class="visitor-map" aria-labelledby="visitor-map-title">
+    <p class="section-kicker">A global audience</p>
+    <h2 id="visitor-map-title">Visitors from around the world</h2>
+    <p class="map-note">Approximate visitor locations, updated automatically.</p>
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=JlK_ojZkG4rP4iFipfTcmOprD4HYOmgccf9iIbZtOxk&amp;cl=ffffff&amp;w=a"></script>
+  </section>
 </div>
