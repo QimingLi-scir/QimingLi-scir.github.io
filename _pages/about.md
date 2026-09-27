@@ -49,6 +49,8 @@ redirect_from:
     <p class="section-kicker">A global audience</p>
     <h2 id="visitor-map-title">Visitors from around the world</h2>
     <p class="map-note">Approximate visitor locations, updated automatically.</p>
-    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=JlK_ojZkG4rP4iFipfTcmOprD4HYOmgccf9iIbZtOxk&amp;cl=ffffff&amp;w=a"></script>
+    <div class="visitor-map-frame">
+      <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=JlK_ojZkG4rP4iFipfTcmOprD4HYOmgccf9iIbZtOxk&amp;cl=ffffff&amp;w=a"></script>
+    </div>
   </section>
 </div>

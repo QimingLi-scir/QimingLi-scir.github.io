@@ -85,11 +85,12 @@ main { min-width: 0; }
 .contact .section-kicker { margin-top: 0; }
 .contact h2 { margin-bottom: 6px; font-size: 21px; }
 .contact p:last-child { margin: 0; font-size: 13px; }
-.visitor-map { margin-top: 48px; padding-top: 8px; text-align: center; }
-.visitor-map .section-kicker { margin-top: 0; }
-.visitor-map h2 { margin-bottom: 4px; }
-.visitor-map .map-note { margin-bottom: 18px; color: var(--muted); font-size: 12px; }
-.visitor-map script { display: inline-block; min-height: 120px; }
+.visitor-map { max-width: 620px; margin: 30px auto 0; padding: 22px 24px 24px; border: 1px solid var(--line); border-radius: 14px; background: #fafbfd; text-align: center; }
+.visitor-map .section-kicker { margin: 0 0 4px; }
+.visitor-map h2 { margin-bottom: 2px; font-size: 20px; }
+.visitor-map .map-note { margin-bottom: 12px; color: var(--muted); font-size: 11px; }
+.visitor-map-frame { width: min(100%, 520px); margin: 0 auto; overflow: hidden; }
+.visitor-map-frame img, .visitor-map-frame iframe, .visitor-map-frame canvas { display: block; max-width: 100% !important; height: auto !important; margin: 0 auto; }
 .site-footer { max-width: 1200px; margin: 0 auto; padding: 22px 0; display: flex; justify-content: space-between; gap: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 11px; }
 @media (min-width: 1450px) { .site-shell { gap: 64px; } }
 @media (max-width: 1100px) {
