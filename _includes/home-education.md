@@ -1,0 +1,3 @@
+- B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
+- M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2027(expected)
+  - Supervisor: [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)

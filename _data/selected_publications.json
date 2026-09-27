@@ -1,0 +1,72 @@
+[
+  {
+    "category": "Multimodal Coding Agent",
+    "venue": "arXiv",
+    "title": "MT-Web2Code: Benchmarking Coding Agents on Multi-Turn Regional Reconstruction and Localized Modification",
+    "paper": "https://arxiv.org/abs/2608.03474",
+    "authors": "**Qiming Li**, Intern @ Meituan Longcat Team"
+  },
+  {
+    "category": "OPD of VLMs",
+    "venue": "NeurIPS2026 Poster",
+    "title": "PRPO: Perception-Reinforced Policy Optimization via Token-Level Dynamic Advantage Reshaping",
+    "paper": "https://arxiv.org/pdf/2606.08708",
+    "authors": "**Qiming Li**, Tianlun Li, Xiaolong Cheng, Hangyu Li, Ruiyan Gong, Kangning Niu, Kaitao Jiang, Mu Xu"
+  },
+  {
+    "category": "OPD of VLMs",
+    "venue": "EMNLP2026 Findings",
+    "title": "Not All Tokens See Equally: Perception-Grounded Policy Optimization for Large Vision-Language Models",
+    "paper": "https://arxiv.org/pdf/2604.01840",
+    "authors": "Zekai Ye, **Qiming Li**, Xiaocheng Feng, Ruihan Chen, Ziming Li, Haoyu Ren, Kun Chen, Dandan Tu, Bing Qin"
+  },
+  {
+    "category": "Hallucination of VLMs",
+    "venue": "WAICA2026 Oral, 世界人工智能大会论文",
+    "title": "CAST: Mitigating Object Hallucination in Large Vision-Language Models via Caption-Guided Visual Attention Steering",
+    "paper": "https://arxiv.org/pdf/2605.04641",
+    "authors": "**Qiming Li**, Zekai Ye, Xiaocheng Feng, Weihong Zhong, Ruihan Chen, Lei Huang, Baohang Li, Bing Qin"
+  },
+  {
+    "category": "Hallucination of VLMs",
+    "venue": "AAAI2026 Oral Top-4%",
+    "title": "Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation",
+    "paper": "https://arxiv.org/abs/2511.05923",
+    "authors": "**Qiming Li**, Zekai Ye, Xiaocheng Feng, Weihong Zhong, Weitao Ma, Xiachong Feng"
+  },
+  {
+    "category": "Hallucination of VLMs",
+    "venue": "ACL2025 Main",
+    "title": "CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention",
+    "paper": "https://arxiv.org/pdf/2506.11073",
+    "authors": "Zekai Ye*, __Qiming Li*__, Xiaocheng Feng, Libo Qin, Yichong Huang, Baohang Li, Kui Jiang, Yang Xiang, Zhirui Zhang, Yunfei Lu, Duyu Tang, Dandan Tu, Bing Qin"
+  },
+  {
+    "category": "Hallucination of VLMs",
+    "venue": "CVPR2025 Highlight Top-3%",
+    "title": "RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness",
+    "paper": "https://arxiv.org/abs/2405.17220",
+    "authors": "Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, Ganqu Cui, Yunkai Dang, Taiwen He, Xiaocheng Feng, Jun Song, Bo Zheng, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun"
+  },
+  {
+    "category": "Hallucination of VLMs",
+    "venue": "ACL2024 Main",
+    "title": "Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models",
+    "paper": "https://arxiv.org/abs/2407.00569",
+    "authors": "Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin"
+  },
+  {
+    "category": "Multilingual VLMs",
+    "venue": "ACL2026 Main",
+    "title": "Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering",
+    "paper": "https://arxiv.org/abs/2511.23231",
+    "authors": "**Qiming Li**, Xiaocheng Feng, Yixuan Ma, Zekai Ye, Ruihan Chen, Xiachong Feng, Bing Qin"
+  },
+  {
+    "category": "Multilingual VLMs",
+    "venue": "ACL2026 Main",
+    "title": "MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents",
+    "paper": "https://arxiv.org/abs/2512.00756",
+    "authors": "Ruihan Chen*, __Qiming Li*__, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxuan Gu, Zekun Zhou, Bing Qin"
+  }
+]

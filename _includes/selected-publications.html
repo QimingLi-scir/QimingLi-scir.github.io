@@ -1,0 +1,10 @@
+<div class="pub-list" id="publication-list">
+{% for paper in site.data.selected_publications %}
+  <article class="pub" data-category="{{ paper.category | escape }}">
+    <div class="pub-meta"><span class="venue">{{ paper.venue }}</span><span class="pub-topic">{{ paper.category }}</span></div>
+    <h3><a href="{{ paper.paper }}">{{ paper.title }}</a></h3>
+    <div class="authors">{{ paper.authors | markdownify }}</div>
+    <div class="links"><a href="{{ paper.paper }}">Read paper <span aria-hidden="true">↗</span></a></div>
+  </article>
+{% endfor %}
+</div>

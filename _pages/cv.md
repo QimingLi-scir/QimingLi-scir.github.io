@@ -1,64 +1,36 @@
 ---
-layout: archive
-title: "CV"
+layout: academic-home
+title: "Curriculum Vitae · Qiming Li"
 permalink: /cv/
-author_profile: true
 redirect_from:
   - /resume
 ---
+<div class="home-modern detail-section" markdown="1">
+# Qiming Li
 
-{% include base_path %}
+Master's student at HIT-SCIR · [qmli@ir.hit.edu.cn](mailto:qmli@ir.hit.edu.cn)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+{% include home-education.md %}
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+{% include home-experience.md %}
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Academic service
+
+{% include home-service.md %}
+
+## Teaching
+
+{% include home-teaching.md %}
+
+## Honors & awards
+
+{% include home-awards.md %}
+
+## Selected publications
+
+{% include selected-publications.html %}
+</div>

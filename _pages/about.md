@@ -1,132 +1,59 @@
 ---
+layout: academic-home
 permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+title: "Qiming Li · Multimodal AI Research"
+excerpt: "Qiming Li, master student at HIT-SCIR. Research on vision-language model post-training, coding and GUI agents, and multimodal hallucination."
+redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-  /* 针对有侧边栏的页面，拉宽右侧内容区 */
-  @media (min-width: 64em) {
-    .archive, .page {
-      width: calc(100% - 250px) !important; /* 250px是侧边栏预留宽度 */
-      padding-right: 40px !important;
-      max-width: 1200px !important; /* 限制一个最大宽度，防止太宽导致阅读困难 */
-    }
-  }
-
-  /* 暴力拉宽主容器 */
-  .wrapper {
-    max-width: 95% !important;
-  }
-</style>
-
-{% include base_path %}
-
-Hello, I'm Qiming Li (启明 李), a master student of [HIT-SCIR](http://ir.hit.edu.cn/) under the supervision of [Prof.Xiaocheng Feng](https://homepage.hit.edu.cn/fengxiaocheng?lang=zh) and [Prof.Bing Qin](https://homepage.hit.edu.cn/qinbing). I am currently working as a research intern at [Meituan Longcat Team](https://github.com/meituan-longcat). Previously, I'm a visiting student of [THUNLP](https://nlp.csai.tsinghua.edu.cn/) under the supervision of [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), and a research assistant of [HKUNLP](https://hkunlp.github.io/) under the supervision of [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/). My research interests focus on **VLM Mid & Post Training**, including **SFT & OPD**, **Coding & GUI Agent** and **Hallucination**. 
-
-Academic Research Experience
-=====
-* Mar.2025 - Sep.2025: [HKUNLP](https://hkunlp.github.io/), The University of HongKong, Research Intern
-  * Supervisor: [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/)
-
-* Jul.2024 - Feb.2025: [THUNLP](https://nlp.csai.tsinghua.edu.cn/), Tsinghua University, Research Intern
-  * Supervisor: [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/)
-
-Industry Research Experience
-=====
-* May.2026 - now: [Meituan, Longcat Team](https://github.com/meituan-longcat), Research Intern
-* Jan.2026 - May.2026: [Alibaba, Abot Team](https://github.com/amap-cvlab), Research Intern
-* Oct.2025 - Jan.2026: [Huawei, Xiaoyi](), Research Intern
-* July.2024 - Feb.2025: [ModelBest](https://modelbest.cn/), Research Intern  
-* Oct.2023 - Jan.2024: [iFLYTEK](https://www.iflytek.com/), Research Intern 
-* Oct.2022 - Aug.2023: [HITCRT](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E7%AB%9E%E6%8A%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%98%9F#7), Vision Control Algorithm Engineer  
-* Jan.2022 - Feb.2022: [Leju (Shenzhen) Robotics](https://www.lejurobot.com/), Vision Algorithm Engineer
-
-Selected Publications
-=====
-## 1. Multimodal Coding Agent
-<span style="color: blue;">**(arXiv)**</span>
-**MT-Web2Code: Benchmarking Coding Agents on Multi-Turn Regional Reconstruction and Localized Modification** [[pdf]](https://arxiv.org/abs/2608.03474)
-
-**Qiming Li**, Intern @ Meituan Longcat Team
-
-## 2. OPD of VLMs
-<span style="color: red;">**(NeurIPS2026 Poster)**</span>
-**PRPO: Perception-Reinforced Policy Optimization via Token-Level Dynamic Advantage Reshaping** [[pdf]](https://arxiv.org/pdf/2606.08708)
-
-**Qiming Li**, Tianlun Li, Xiaolong Cheng, Hangyu Li, Ruiyan Gong, Kangning Niu, Kaitao Jiang, Mu Xu
-
-<span style="color: red;">**(EMNLP2026 Findings)**</span>
-**Not All Tokens See Equally: Perception-Grounded Policy Optimization for Large Vision-Language Models** [[pdf]](https://arxiv.org/pdf/2604.01840)
-
-Zekai Ye, **Qiming Li**, Xiaocheng Feng, Ruihan Chen, Ziming Li, Haoyu Ren, Kun Chen, Dandan Tu, Bing Qin
-
-## 3. Hallucination of VLMs
-
-<span style="color: red;">**(WAICA2026 Oral, 世界人工智能大会论文)**</span>
-**CAST: Mitigating Object Hallucination in Large Vision-Language Models via Caption-Guided Visual Attention Steering** [[pdf]](https://arxiv.org/pdf/2605.04641)
-
-**Qiming Li**, Zekai Ye, Xiaocheng Feng, Weihong Zhong, Ruihan Chen, Lei Huang, Baohang Li, Bing Qin
-
-<span style="color: red;">**(AAAI2026 Oral Top-4%)**</span>
-**Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation** [[pdf]](https://arxiv.org/abs/2511.05923)
-
-**Qiming Li**, Zekai Ye, Xiaocheng Feng, Weihong Zhong, Weitao Ma, Xiachong Feng 
-
-<span style="color: red;">**(ACL2025 Main)**</span>
-**CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention** [[pdf]](https://arxiv.org/pdf/2506.11073)
-
-Zekai Ye*, __Qiming Li*__, Xiaocheng Feng, Libo Qin, Yichong Huang, Baohang Li, Kui Jiang, Yang Xiang, Zhirui Zhang, Yunfei Lu, Duyu Tang, Dandan Tu, Bing Qin
-
-<span style="color: red;">**(CVPR2025 Highlight Top-3%)**</span>
-**RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness** [[pdf]](https://arxiv.org/abs/2405.17220)
-
-Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, Ganqu Cui, Yunkai Dang, Taiwen He, Xiaocheng Feng, Jun Song, Bo Zheng, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun
-
-<span style="color: red;">**(ACL2024 Main)**</span>
-**Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models** [[pdf]](https://arxiv.org/abs/2407.00569)
-
-Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin
-
-## 4. Multilingual VLMs
-<span style="color: red;">**(ACL2026 Main)**</span>
-**Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering** [[pdf]](https://arxiv.org/abs/2511.23231)
-
-**Qiming Li**, Xiaocheng Feng, Yixuan Ma, Zekai Ye, Ruihan Chen, Xiachong Feng, Bing Qin
-
-<span style="color: red;">**(ACL2026 Main)**</span>
-**MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents** [[pdf]](https://arxiv.org/abs/2512.00756)
-
-Ruihan Chen*, __Qiming Li*__, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxuan Gu, Zekun Zhou, Bing Qin
-
-
-Professional Services
-=====
-* 2025: ACL ARR (Reviewer), AAAI (Program Committee), ICLR (Reviewer)
-* 2026: ACL ARR (Reviewer), AAAI (Program Committee), ACM MM (Reviewer), NeurIPS (Reviewer) 
-
-Teaching
-=====
-* Teaching Assistant @ Harbin Institute of Technology
-  * 22CS31052 Knowledge Representation and Reasoning, Spring 2025
- 
-Education
-=====
-- <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:35px;height:30px;"> B.S. in Computer Science, Harbin Institute of Technology, Aug.2020-June.2024
-- <img src="https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png" alt="Harbin Institute of Technology Logo" style="width:35px;height:30px;"> M.S. in Computer Science, Harbin Institute of Technology, Aug.2024-2027(expected)
-  - Supervisor: [Prof.Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/)
-    
-Awards
-=====
-* HIT(ShenZhen) Insun Scholarship (Top-1%)
-* Graduate Entrance Scholarship (Top Class)
-* Graduate Academic Scholarship (Top Class)
-* HIT Outstanding Graduate Student Award
-* 2023 National Robotics Competition [Robomaster](https://www.robomaster.com/zh-CN)
-  * [RoboMaster2023 National First Prize(6/32)](https://www.robomaster.com/zh-CN/resource/pages/announcement/1617)
-  * [RoboMaster2023 Central Region Champion(First time in HIT history)](https://www.robomaster.com/zh-CN/resource/pages/announcement/1607)
-
-  
+<div class="home-modern">
+  <section class="hero" id="about" aria-labelledby="intro-title">
+    <p class="eyebrow">HIT-SCIR · Multimodal AI</p>
+    <h1 id="intro-title">Qiming <span>Li</span> <small>李启明</small></h1>
+    <p class="lede">Exploring how vision-language models<br class="desktop-break"> perceive, reason, and act.</p>
+    <div class="hero-actions">
+      <a class="primary" href="#publications">Explore my research <span aria-hidden="true">↓</span></a>
+      <a href="mailto:qmli@ir.hit.edu.cn">Get in touch <span aria-hidden="true">↗</span></a>
+    </div>
+  </section>
+  <section class="about-copy" aria-labelledby="about-title">
+    <p class="section-kicker">A little about me</p>
+    <h2 id="about-title">Hello, I'm Qiming.</h2>
+    <p class="intro">I am a master's student at <a href="http://ir.hit.edu.cn/">HIT-SCIR</a>, advised by <a href="https://homepage.hit.edu.cn/fengxiaocheng?lang=zh">Prof. Xiaocheng Feng</a> and <a href="https://homepage.hit.edu.cn/qinbing">Prof. Bing Qin</a>. I am currently a research intern with the <a href="https://github.com/meituan-longcat">Meituan Longcat Team</a>.</p>
+    <p class="intro">Previously, I was a visiting student at <a href="https://nlp.csai.tsinghua.edu.cn/">THUNLP</a>, working with <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>, and a research assistant at <a href="https://hkunlp.github.io/">HKUNLP</a>, working with <a href="https://xcfeng.net/">Dr. Xiachong Feng</a> and <a href="https://ikekonglp.github.io/">Prof. Lingpeng Kong</a>.</p>
+    <p class="intro">My research focuses on <strong>VLM mid- and post-training</strong>, including SFT and on-policy distillation, coding and GUI agents, and hallucination.</p>
+    <div class="research-grid">
+      <div class="research-card"><span class="research-number">01 / TRAIN</span><h3>VLM post-training</h3><p>SFT &amp; on-policy distillation</p></div>
+      <div class="research-card"><span class="research-number">02 / ACT</span><h3>Multimodal agents</h3><p>Coding &amp; GUI interaction</p></div>
+      <div class="research-card"><span class="research-number">03 / TRUST</span><h3>Reliable perception</h3><p>Hallucination &amp; interpretability</p></div>
+    </div>
+  </section>
+  <section id="publications" aria-labelledby="publications-title">
+    <p class="section-kicker">Research portfolio</p>
+    <div class="section-heading"><h2 id="publications-title">Selected publications</h2><a href="{{ site.author.googlescholar }}">Google Scholar ↗</a></div>
+    <p class="section-note">* Equal contribution. Publication information follows my research record.</p>
+    <div class="pub-filters" aria-label="Filter publications" hidden>
+      <button type="button" class="active" data-filter="all" aria-pressed="true">All research</button>
+      <button type="button" data-filter="Multimodal Coding Agent" aria-pressed="false">Coding agents</button>
+      <button type="button" data-filter="OPD of VLMs" aria-pressed="false">VLM post-training</button>
+      <button type="button" data-filter="Hallucination of VLMs" aria-pressed="false">Hallucination</button>
+      <button type="button" data-filter="Multilingual VLMs" aria-pressed="false">Multilingual VLMs</button>
+    </div>
+    <p class="sr-only" id="filter-status" role="status" aria-live="polite"></p>
+    {% include selected-publications.html %}
+  </section>
+  <section id="experience" class="detail-section" aria-labelledby="experience-title">
+    <p class="section-kicker">Where I've worked</p><h2 id="experience-title">Research experience</h2>
+    {% capture experience %}{% include home-experience.md %}{% endcapture %}{{ experience | markdownify }}
+  </section>
+  <section id="education" class="detail-section" aria-labelledby="education-title">
+    <p class="section-kicker">Academic journey</p><h2 id="education-title">Education</h2>
+    {% capture education %}{% include home-education.md %}{% endcapture %}{{ education | markdownify }}
+  </section>
+  <div class="columns">
+    <section id="service" class="detail-section" aria-labelledby="service-title"><p class="section-kicker">Giving back</p><h2 id="service-title">Academic service</h2>{% capture service %}{% include home-service.md %}{% endcapture %}{{ service | markdownify }}<h3>Teaching</h3>{% capture teaching %}{% include home-teaching.md %}{% endcapture %}{{ teaching | markdownify }}</section>
+    <section id="awards" class="detail-section" aria-labelledby="awards-title"><p class="section-kicker">Milestones</p><h2 id="awards-title">Honors &amp; awards</h2>{% capture awards %}{% include home-awards.md %}{% endcapture %}{{ awards | markdownify }}</section>
+  </div>
+  <div class="contact"><p class="section-kicker">Let's connect</p><h2>Interested in multimodal AI?</h2><p><a href="mailto:qmli@ir.hit.edu.cn">qmli@ir.hit.edu.cn <span aria-hidden="true">↗</span></a></p></div>
+</div>

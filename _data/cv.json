@@ -1,152 +1,168 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Qiming Li (启明 李)",
+    "email": "qmli@ir.hit.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://qimingli-scir.github.io/",
+    "summary": "Master student at HIT-SCIR researching VLM post-training, multimodal agents, and hallucination.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Harbin",
+      "countryCode": "CN",
+      "region": "Heilongjiang"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.cz/citations?view_op=list_works&hl=zh-CN&user=Rxp8fdUAAAAJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "QimingLi-scir",
+        "url": "https://github.com/QimingLi-scir"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Meituan Longcat Team",
+      "position": "Research Intern",
+      "startDate": "2026-05",
+      "endDate": "",
+      "summary": "Research on multimodal model post-training."
+    },
+    {
+      "name": "HKUNLP, The University of Hong Kong",
+      "position": "Research Intern",
+      "startDate": "2025-03",
+      "endDate": "2025-09",
+      "summary": ""
+    },
+    {
+      "name": "THUNLP, Tsinghua University",
+      "position": "Research Intern",
+      "startDate": "2024-07",
+      "endDate": "2025-02",
+      "summary": ""
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Harbin Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2024-08",
+      "endDate": "2027",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Harbin Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2020-08",
+      "endDate": "2024-06",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Research",
+      "keywords": [
+        "VLM post-training",
+        "On-policy distillation",
+        "Coding & GUI agents",
+        "Multimodal hallucination"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "MT-Web2Code: Benchmarking Coding Agents on Multi-Turn Regional Reconstruction and Localized Modification",
+      "publisher": "arXiv",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2608.03474",
+      "summary": "**Qiming Li**, Intern @ Meituan Longcat Team"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "PRPO: Perception-Reinforced Policy Optimization via Token-Level Dynamic Advantage Reshaping",
+      "publisher": "NeurIPS2026 Poster",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/pdf/2606.08708",
+      "summary": "**Qiming Li**, Tianlun Li, Xiaolong Cheng, Hangyu Li, Ruiyan Gong, Kangning Niu, Kaitao Jiang, Mu Xu"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Not All Tokens See Equally: Perception-Grounded Policy Optimization for Large Vision-Language Models",
+      "publisher": "EMNLP2026 Findings",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/pdf/2604.01840",
+      "summary": "Zekai Ye, **Qiming Li**, Xiaocheng Feng, Ruihan Chen, Ziming Li, Haoyu Ren, Kun Chen, Dandan Tu, Bing Qin"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "CAST: Mitigating Object Hallucination in Large Vision-Language Models via Caption-Guided Visual Attention Steering",
+      "publisher": "WAICA2026 Oral, 世界人工智能大会论文",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/pdf/2605.04641",
+      "summary": "**Qiming Li**, Zekai Ye, Xiaocheng Feng, Weihong Zhong, Ruihan Chen, Lei Huang, Baohang Li, Bing Qin"
+    },
+    {
+      "name": "Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation",
+      "publisher": "AAAI2026 Oral Top-4%",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2511.05923",
+      "summary": "**Qiming Li**, Zekai Ye, Xiaocheng Feng, Weihong Zhong, Weitao Ma, Xiachong Feng"
+    },
+    {
+      "name": "CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention",
+      "publisher": "ACL2025 Main",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/pdf/2506.11073",
+      "summary": "Zekai Ye*, __Qiming Li*__, Xiaocheng Feng, Libo Qin, Yichong Huang, Baohang Li, Kui Jiang, Yang Xiang, Zhirui Zhang, Yunfei Lu, Duyu Tang, Dandan Tu, Bing Qin"
+    },
+    {
+      "name": "RLAIF-V: Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness",
+      "publisher": "CVPR2025 Highlight Top-3%",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2405.17220",
+      "summary": "Tianyu Yu, Haoye Zhang, **Qiming Li**, Qixin Xu, Yuan Yao, Da Chen, Xiaoman Lu, Ganqu Cui, Yunkai Dang, Taiwen He, Xiaocheng Feng, Jun Song, Bo Zheng, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun"
+    },
+    {
+      "name": "Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models",
+      "publisher": "ACL2024 Main",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2407.00569",
+      "summary": "Weihong Zhong, Xiaocheng Feng, Liang Zhao, **Qiming Li**, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin"
+    },
+    {
+      "name": "Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering",
+      "publisher": "ACL2026 Main",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2511.23231",
+      "summary": "**Qiming Li**, Xiaocheng Feng, Yixuan Ma, Zekai Ye, Ruihan Chen, Xiachong Feng, Bing Qin"
+    },
+    {
+      "name": "MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents",
+      "publisher": "ACL2026 Main",
+      "releaseDate": "2026",
+      "website": "https://arxiv.org/abs/2512.00756",
+      "summary": "Ruihan Chen*, __Qiming Li*__, Xiaocheng Feng, Xiaoliang Yang, Weihong Zhong, Yuxuan Gu, Zekun Zhou, Bing Qin"
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Knowledge Representation and Reasoning",
+      "institution": "Harbin Institute of Technology",
+      "date": "2025-03",
+      "role": "Teaching Assistant",
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "awards": []
 }
