@@ -8,16 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div class="home-modern">
-  <section class="hero" id="about" aria-labelledby="intro-title">
-    <p class="eyebrow">HIT-SCIR · Multimodal AI</p>
-    <h1 id="intro-title">Qiming <span>Li</span> <small>李启明</small></h1>
-    <p class="lede">Exploring how vision-language models<br class="desktop-break"> perceive, reason, and act.</p>
-    <div class="hero-actions">
-      <a class="primary" href="#publications">Explore my research <span aria-hidden="true">↓</span></a>
-      <a href="mailto:qmli@ir.hit.edu.cn">Get in touch <span aria-hidden="true">↗</span></a>
-    </div>
-  </section>
-  <section class="about-copy" aria-labelledby="about-title">
+  <section class="about-copy" id="about" aria-labelledby="about-title">
     <p class="section-kicker">A little about me</p>
     <h2 id="about-title">Hello, I'm Qiming.</h2>
     <p class="intro">I am a master's student at <a href="http://ir.hit.edu.cn/">HIT-SCIR</a>, advised by <a href="https://homepage.hit.edu.cn/fengxiaocheng?lang=zh">Prof. Xiaocheng Feng</a> and <a href="https://homepage.hit.edu.cn/qinbing">Prof. Bing Qin</a>. I am currently a research intern with the <a href="https://github.com/meituan-longcat">Meituan Longcat Team</a>.</p>
@@ -28,6 +19,10 @@ redirect_from:
       <div class="research-card"><span class="research-number">02 / ACT</span><h3>Multimodal agents</h3><p>Coding &amp; GUI interaction</p></div>
       <div class="research-card"><span class="research-number">03 / TRUST</span><h3>Reliable perception</h3><p>Hallucination &amp; interpretability</p></div>
     </div>
+  </section>
+  <section id="experience" class="detail-section" aria-labelledby="experience-title">
+    <p class="section-kicker">Where I've worked</p><h2 id="experience-title">Research experience</h2>
+    {% capture experience %}{% include home-experience.md %}{% endcapture %}{{ experience | markdownify }}
   </section>
   <section id="publications" aria-labelledby="publications-title">
     <p class="section-kicker">Research portfolio</p>
@@ -42,10 +37,6 @@ redirect_from:
     </div>
     <p class="sr-only" id="filter-status" role="status" aria-live="polite"></p>
     {% include selected-publications.html %}
-  </section>
-  <section id="experience" class="detail-section" aria-labelledby="experience-title">
-    <p class="section-kicker">Where I've worked</p><h2 id="experience-title">Research experience</h2>
-    {% capture experience %}{% include home-experience.md %}{% endcapture %}{{ experience | markdownify }}
   </section>
   <section id="education" class="detail-section" aria-labelledby="education-title">
     <p class="section-kicker">Academic journey</p><h2 id="education-title">Education</h2>
