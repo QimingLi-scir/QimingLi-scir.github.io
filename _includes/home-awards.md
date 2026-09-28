@@ -1,3 +1,4 @@
+* HIT "Sheng Sheng Bu Xi" Scholarship (No.1)
 * HIT(ShenZhen) Insun Scholarship (Top-1%)
 * Graduate Entrance Scholarship (Top Class)
 * Graduate Academic Scholarship (Top Class)
