@@ -23,12 +23,12 @@ redirect_from:
   </section>
   <section id="publications" aria-labelledby="publications-title">
     <p class="section-kicker">Research portfolio</p>
-    <div class="section-heading"><h2 id="publications-title">Selected publications</h2><a href="{{ site.author.googlescholar }}">Google Scholar ↗</a></div>
-    <p class="section-note">* Equal contribution. Publication information follows my research record.</p>
+    <div class="section-heading"><h2 id="publications-title">Selected Publications</h2><a href="{{ site.author.googlescholar }}">Google Scholar ↗</a></div>
+    <p class="section-note">* Equal contribution.</p>
     <div class="pub-filters" aria-label="Filter publications" hidden>
-      <button type="button" class="active" data-filter="all" aria-pressed="true">All research</button>
-      <button type="button" data-filter="Multimodal Coding Agent" aria-pressed="false">Coding agents</button>
-      <button type="button" data-filter="OPD of VLMs" aria-pressed="false">VLM post-training</button>
+      <button type="button" class="active" data-filter="all" aria-pressed="true">All Research</button>
+      <button type="button" data-filter="Multimodal Coding Agent" aria-pressed="false">Coding Agents</button>
+      <button type="button" data-filter="OPD of VLMs" aria-pressed="false">VLM Post-Training</button>
       <button type="button" data-filter="Hallucination of VLMs" aria-pressed="false">Hallucination</button>
       <button type="button" data-filter="Multilingual VLMs" aria-pressed="false">Multilingual VLMs</button>
     </div>
@@ -40,14 +40,14 @@ redirect_from:
     {% capture education %}{% include home-education.md %}{% endcapture %}{{ education | markdownify }}
   </section>
   <div class="columns">
-    <section id="service" class="detail-section" aria-labelledby="service-title"><p class="section-kicker">Giving back</p><h2 id="service-title">Academic service</h2>{% capture service %}{% include home-service.md %}{% endcapture %}{{ service | markdownify }}<h3>Teaching</h3>{% capture teaching %}{% include home-teaching.md %}{% endcapture %}{{ teaching | markdownify }}</section>
-    <section id="awards" class="detail-section" aria-labelledby="awards-title"><p class="section-kicker">Milestones</p><h2 id="awards-title">Honors &amp; awards</h2>{% capture awards %}{% include home-awards.md %}{% endcapture %}{{ awards | markdownify }}</section>
+    <section id="service" class="detail-section" aria-labelledby="service-title"><p class="section-kicker">Giving back</p><h2 id="service-title">Academic Service</h2>{% capture service %}{% include home-service.md %}{% endcapture %}{{ service | markdownify }}<h3>Teaching</h3>{% capture teaching %}{% include home-teaching.md %}{% endcapture %}{{ teaching | markdownify }}</section>
+    <section id="awards" class="detail-section" aria-labelledby="awards-title"><p class="section-kicker">Milestones</p><h2 id="awards-title">Honors &amp; Awards</h2>{% capture awards %}{% include home-awards.md %}{% endcapture %}{{ awards | markdownify }}</section>
   </div>
-  <div class="contact"><p class="section-kicker">Let's connect</p><h2>Interested in multimodal AI?</h2><p><a href="mailto:qmli@ir.hit.edu.cn">qmli@ir.hit.edu.cn <span aria-hidden="true">↗</span></a></p></div>
+  <div class="contact"><p class="section-kicker">Let's connect</p><h2>Interested in Multimodal AI?</h2><p><a href="mailto:qmli@ir.hit.edu.cn">qmli@ir.hit.edu.cn <span aria-hidden="true">↗</span></a></p></div>
   <section class="visitor-map" aria-labelledby="visitor-map-title">
     <p class="section-kicker">A global audience</p>
-    <h2 id="visitor-map-title">Visitors from around the world</h2>
-    <p class="map-note">Approximate visitor locations, updated automatically.</p>
+    <!-- <h2 id="visitor-map-title">Visitors from around the world</h2> -->
+    <!-- <p class="map-note">Approximate visitor locations, updated automatically.</p> -->
     <div class="visitor-map-frame">
       <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=JlK_ojZkG4rP4iFipfTcmOprD4HYOmgccf9iIbZtOxk&amp;cl=ffffff&amp;w=a"></script>
     </div>
