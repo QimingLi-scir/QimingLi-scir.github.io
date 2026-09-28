@@ -1,4 +1,4 @@
-### Academic research
+### Academic Research
 
 * Mar.2025 - Sep.2025: [HKUNLP](https://hkunlp.github.io/), The University of HongKong, Research Intern
   * Supervisor: [Postdoc.Xiachong Feng](https://xcfeng.net/) and [Prof.Lingpeng Kong](https://ikekonglp.github.io/)
@@ -6,7 +6,7 @@
 * Jul.2024 - Feb.2025: [THUNLP](https://nlp.csai.tsinghua.edu.cn/), Tsinghua University, Research Intern
   * Supervisor: [Prof.Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/)
 
-### Industry research
+### Industry Research
 
 * May.2026 - now: [Meituan, Longcat Team](https://github.com/meituan-longcat), Research Intern
 * Jan.2026 - May.2026: [Alibaba, Abot Team](https://github.com/amap-cvlab), Research Intern
