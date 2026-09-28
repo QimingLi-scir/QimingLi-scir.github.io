@@ -12,9 +12,9 @@ redirect_from:
     <p class="section-kicker">A little about me</p>
     <p class="intro">I am a master's student at <a href="http://ir.hit.edu.cn/">HIT-SCIR</a>, advised by <a href="https://homepage.hit.edu.cn/fengxiaocheng?lang=zh">Prof. Xiaocheng Feng</a> and <a href="https://homepage.hit.edu.cn/qinbing">Prof. Bing Qin</a>. I am currently a research intern with the <a href="https://github.com/meituan-longcat">Meituan Longcat Team</a>. Previously, I was a visiting student at <a href="https://nlp.csai.tsinghua.edu.cn/">THUNLP</a>, working with <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/">Prof. Zhiyuan Liu</a>, and a research assistant at <a href="https://hkunlp.github.io/">HKUNLP</a>, working with <a href="https://xcfeng.net/">Dr. Xiachong Feng</a> and <a href="https://ikekonglp.github.io/">Prof. Lingpeng Kong</a>. My research focuses on <strong>VLM mid- and post-training</strong>, including RL and On-Policy Distillation, Coding & GUI agents, and hallucination.</p>
     <div class="research-grid">
-      <div class="research-card"><span class="research-number">01 / TRAIN</span><h3>VLM post-training</h3><p>SFT &amp; on-policy distillation</p></div>
-      <div class="research-card"><span class="research-number">02 / ACT</span><h3>Multimodal agents</h3><p>Coding &amp; GUI interaction</p></div>
-      <div class="research-card"><span class="research-number">03 / TRUST</span><h3>Reliable perception</h3><p>Hallucination &amp; interpretability</p></div>
+      <div class="research-card"><span class="research-number">01 / TRAIN</span><h3>VLM Post-Training</h3><p>SFT &amp; On-Policy Distillation</p></div>
+      <div class="research-card"><span class="research-number">02 / ACT</span><h3>Visual Agents</h3><p>Coding &amp; GUI Interaction</p></div>
+      <div class="research-card"><span class="research-number">03 / TRUST</span><h3>Reliable Perception</h3><p>Hallucination &amp; Interpretability</p></div>
     </div>
   </section>
   <section id="experience" class="detail-section" aria-labelledby="experience-title">
