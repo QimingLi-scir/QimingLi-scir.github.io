@@ -32,6 +32,12 @@ redirect_from:
       <button type="button" data-filter="Hallucination of VLMs" aria-pressed="false">Hallucination</button>
       <button type="button" data-filter="Multilingual VLMs" aria-pressed="false">Multilingual VLMs</button>
     </div>
+    <label class="pub-sort" for="publication-sort-home">Sort by
+      <select id="publication-sort-home" data-publication-sort>
+        <option value="default">Publication order</option>
+        <option value="author-position">My author position</option>
+      </select>
+    </label>
     <p class="sr-only" id="filter-status" role="status" aria-live="polite"></p>
     {% include selected-publications.html %}
   </section>

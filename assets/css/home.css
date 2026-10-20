@@ -63,6 +63,8 @@ main { min-width: 0; }
 .pub-filters button { border: 1px solid var(--line); background: #fff; border-radius: 6px; padding: 6px 10px; color: #526078; font-size: 11px; cursor: pointer; }
 .pub-filters button.active { border-color: #335acb; color: #fff; background: #335acb; }
 .pub-filters button:hover:not(.active) { background: var(--soft); border-color: #a3b5d8; }
+.pub-sort { display: inline-flex; align-items: center; gap: 8px; margin: 0 0 18px; color: var(--muted); font-size: 11px; }
+.pub-sort select { appearance: none; border: 1px solid var(--line); border-radius: 6px; padding: 6px 28px 6px 9px; color: #526078; background: #fff; font: inherit; cursor: pointer; background-image: linear-gradient(45deg, transparent 50%, #7b88a0 50%), linear-gradient(135deg, #7b88a0 50%, transparent 50%); background-position: calc(100% - 13px) 10px, calc(100% - 9px) 10px; background-size: 4px 4px, 4px 4px; background-repeat: no-repeat; }
 .pub-list { display: grid; gap: 13px; }
 .pub { padding: 19px 21px; border: 1px solid var(--line); border-left: 3px solid #90a8dc; border-radius: 9px; background: #fff; }
 .pub:hover { border-left-color: var(--blue); background: #fcfdff; }
@@ -73,6 +75,7 @@ main { min-width: 0; }
 .pub h3 a { color: #253f75; }
 .pub .authors p { margin: 0; color: var(--muted); font-size: 12px; line-height: 1.75; }
 .authors strong { color: var(--ink); }
+.author-position { display: inline-block; margin-top: 8px; color: #536d9f; font-size: 10px; font-weight: 650; letter-spacing: .02em; }
 .pub .links { margin-top: 10px; font-size: 11px; font-weight: 650; }
 .columns { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; }
 .detail-section h3 { margin: 24px 0 10px; font-size: 15px; }
@@ -124,6 +127,7 @@ main { min-width: 0; }
   .research-card h3 { margin: 4px 0 2px; }
   .research-number { float: right; margin-top: 5px; font-size: 8px; }
   .section-heading { flex-wrap: wrap; gap: 0; margin-bottom: 10px; }
+  .pub-sort { margin-bottom: 14px; }
   .home-modern h2 { font-size: 23px; }
   .pub { padding: 16px; }
   .pub h3 { font-size: 14px; }

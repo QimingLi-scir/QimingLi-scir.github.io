@@ -3,4 +3,15 @@ layout: academic-home
 title: "Publications · Qiming Li"
 permalink: /publications/
 ---
-<div class="home-modern"><p class="section-kicker">Research portfolio</p><h1>Selected publications</h1><p>* Equal contribution. <a href="{{ site.author.googlescholar }}">Google Scholar ↗</a></p>{% include selected-publications.html %}</div>
+<div class="home-modern">
+  <p class="section-kicker">Research portfolio</p>
+  <h1>Selected publications</h1>
+  <p>* Equal contribution. <a href="{{ site.author.googlescholar }}">Google Scholar ↗</a></p>
+  <label class="pub-sort" for="publication-sort-page">Sort by
+    <select id="publication-sort-page" data-publication-sort>
+      <option value="default">Publication order</option>
+      <option value="author-position">My author position</option>
+    </select>
+  </label>
+  {% include selected-publications.html %}
+</div>
