@@ -75,7 +75,6 @@ main { min-width: 0; }
 .pub h3 a { color: #253f75; }
 .pub .authors p { margin: 0; color: var(--muted); font-size: 12px; line-height: 1.75; }
 .authors strong { color: var(--ink); }
-.author-position { display: inline-block; margin-top: 8px; color: #536d9f; font-size: 10px; font-weight: 650; letter-spacing: .02em; }
 .pub .links { margin-top: 10px; font-size: 11px; font-weight: 650; }
 .columns { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; }
 .detail-section h3 { margin: 24px 0 10px; font-size: 15px; }

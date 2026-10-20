@@ -4,7 +4,6 @@
     <div class="pub-meta"><span class="venue">{{ paper.venue }}</span><span class="pub-topic">{{ paper.category }}</span></div>
     <h3><a href="{{ paper.paper }}">{{ paper.title }}</a></h3>
     <div class="authors">{{ paper.authors | markdownify }}</div>
-    {% if page.layout == 'academic-home' %}<span class="author-position" aria-label="Qiming Li is author {{ paper.author_position | default: 'unknown' }}">Author #{{ paper.author_position | default: '—' }}</span>{% endif %}
     <div class="links"><a href="{{ paper.paper }}">Read paper <span aria-hidden="true">↗</span></a></div>
   </article>
 {% endfor %}
