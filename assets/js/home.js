@@ -43,7 +43,7 @@
   }
 
   if (sort) {
-    sort.addEventListener('change', () => {
+    const sortPapers = () => {
       const sorted = [...papers].sort((a, b) => {
         if (sort.value === 'author-position') {
           return a.position - b.position || a.index - b.index;
@@ -51,8 +51,13 @@
         return a.index - b.index;
       });
       sorted.forEach(({ element }) => list.appendChild(element));
+    };
+
+    sort.addEventListener('change', () => {
+      sortPapers();
       applyFilter();
     });
+    sortPapers();
   }
 
   applyFilter();

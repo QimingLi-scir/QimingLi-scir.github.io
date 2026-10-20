@@ -34,8 +34,8 @@ redirect_from:
     </div>
     <label class="pub-sort" for="publication-sort-home">Sort by
       <select id="publication-sort-home" data-publication-sort>
+        <option value="author-position" selected>My author position</option>
         <option value="default">Publication order</option>
-        <option value="author-position">My author position</option>
       </select>
     </label>
     <p class="sr-only" id="filter-status" role="status" aria-live="polite"></p>
